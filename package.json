@@ -1,0 +1,12 @@
+{
+  "name": "vscode-debugger-issues",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node  --inspect=9393 index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
